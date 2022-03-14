@@ -1,3 +1,6 @@
+####################################
+The Function adds gaussian , salt-pepper , poisson and speckle noise in an image
+######################################
 import numpy as np
 import os
 import cv2
